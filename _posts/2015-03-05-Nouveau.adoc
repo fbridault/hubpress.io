@@ -1,0 +1,5 @@
+= Nouveau
+
+:hp-tags: titre
+
+Pour faire plaisir à Fred.
