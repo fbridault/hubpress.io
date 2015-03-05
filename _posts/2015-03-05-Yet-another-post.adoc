@@ -1,0 +1,18 @@
+= Yet another post
+
+
+Random text...
+
+Pour le *reformatage*, j'ai choisi _uncrustify_ car il semble à l'heure actuelle plus complet et customisable que clang-format (350 options contre 50...). Mais rien n'empêche d'évoluer plus tard. Toutes nos règles de codage ne sont évidemment pas appliquées, mais il y en a tout de même quelques unes. Je vous propose de vous reporter au document pour plus de détails :
+
+    2 : 120 characters max per line
+    3 : Indentation with spaces
+    
+Pas mal la mise en forme d'avant...
+
+  	* liste 1
+  	* liste 2
+
+	un peu de code
+    
+
