@@ -1,5 +1,7 @@
 = Test 1
 
+:hp-tags: test,titre
+
 Hello c'est le premier post.
 
 == Titre 1
@@ -10,4 +12,3 @@ C'est le premier titre. Waouh.
 
 C'est le deuxième titre. Il y a de quoi être fier non ?
 
-:hp-tags: test,titre
