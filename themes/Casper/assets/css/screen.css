@@ -744,11 +744,12 @@ body:not(.post-template) .post-title {
 
 .post-title a {
     text-decoration: none;
+    font-size: 0.8em;
 }
 
 .post-excerpt p {
     margin: 0;
-    font-size: 0.9em;
+    font-size: 0.6em;
     line-height: 1.7em;
 }
 
@@ -1369,7 +1370,7 @@ body:not(.post-template) .post-title {
     }
 
     .post {
-        font-size: 0.55em
+        font-size: 0.95em
     }
 
     body:not(.post-template) .post-title {
