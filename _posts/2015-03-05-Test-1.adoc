@@ -10,5 +10,5 @@ C'est le premier titre. Waouh.
 
 == Titre 2
 
-C'est le deuxième titre. Il y a de quoi être fier non ?
+C'est le deuxième titre. Il y a de quoi être fier non ? :)
 
