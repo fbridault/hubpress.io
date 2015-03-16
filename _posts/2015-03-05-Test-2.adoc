@@ -1,4 +1,6 @@
 = Test 2
 
+:hp-tags: test
+
 Youhou c'est la fête du *slip*.
 C'est super.
